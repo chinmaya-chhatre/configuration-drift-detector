@@ -43,7 +43,7 @@ Before running, set your email credentials as environment variables:
 export EMAIL_SENDER="your-email@gmail.com"
 export EMAIL_RECEIVER="receiver-email@example.com"
 export EMAIL_PASSWORD="your-app-password"
-export SMTP_SERVER="smtp.gmail.com" [test]
+export SMTP_SERVER="smtp.gmail.com"
 export SMTP_PORT=587
 ```
 > **For Gmail users:** Generate an **App Password** from [Google App Passwords](https://myaccount.google.com/apppasswords).
